@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie_name">Nama Film</string>
+    <string name="time">Waktu</string>
+    <string name="deskripsi">Deskripsi/Sipnosis</string>
+    <string name="with_cardview">With CardView</string>
+
+</resources>
